@@ -193,6 +193,11 @@ React Queary to manage remote state and data fetching
    * Offline support.
 * Needed because remote state is fundamentally different form regular (UI) state.
 
+* Fetch and store data is very good Feature.
+_________________________________________________________________________________________________
+React hook form version 7
+
+
 
 
 
