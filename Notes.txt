@@ -196,6 +196,7 @@ React Queary to manage remote state and data fetching
 * Fetch and store data is very good Feature.
 _________________________________________________________________________________________________
 React hook form version 7
+file upload to the supabase bucket( name in supabase must be same )
 
 
 
