@@ -197,7 +197,8 @@ React Queary to manage remote state and data fetching
 _________________________________________________________________________________________________
 React hook form version 7
 file upload to the supabase bucket( name in supabase must be same )
-File and data updation  
+File and data updation 
+Abstracting react query into custom hooks 
 
 
 
