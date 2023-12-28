@@ -199,7 +199,12 @@ React hook form version 7
 file upload to the supabase bucket( name in supabase must be same )
 File and data updation 
 Abstracting react query into custom hooks 
-
+_________________________________________________________________
+Advance react patterns
+* We can use 
+  * UI
+  * Stateful logic
+  
 
 
 
