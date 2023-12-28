@@ -203,7 +203,14 @@ _________________________________________________________________
 Advance react patterns
 * We can use 
   * UI
-  * Stateful logic
+    Components and props
+    Children prop
+  * Stateful logic 
+    Custom hooks
+  * Render props patterns
+    For complete control over what the component renders, by passing in a function that tells the
+    component what to render . was more common before hooks, but still useful.
+  * Compound component pattern
   
 
 
