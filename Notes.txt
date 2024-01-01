@@ -212,11 +212,13 @@ Advance react patterns
     component what to render . was more common before hooks, but still useful.
   * Compound component pattern
     * Modal
-    
+      
 
 Filtering component reusable.
 _________________________________________________________________________________________________
 Building booking table
+______________________________
+filtering booking table
 
 
 
